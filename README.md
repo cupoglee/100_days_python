@@ -1,2 +1,5 @@
 # 100_days_python
-100 days of Python course + Notes
+Some basic python hacks and programs. This repo is still under construction.
+
+Basic Python techniques :
+[Reversed String](https://github.com/cupoglee/100_days_python/blob/main/ReversedString.ipynb)
